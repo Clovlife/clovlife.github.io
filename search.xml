@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Photoshop制作有质感的黑白照片，PS只需一步</title>
+      <link href="/Black-and-white-photo-2020-9-7/"/>
+      <url>/Black-and-white-photo-2020-9-7/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>在很多时候，我们可以看到一些明星的黑白写真照片，这种写真照片看起来非常有质感。</p></blockquote><ul><li>这时候让你来制作，你会如何制作？</li><li>如果你选择直接在Photoshop中使用去色，那就错了。</li></ul><p><img src="/images/202009/pasted-0.png" alt="处理效果对比"></p><p>从几种制作中可以看到，直接使用去色，照片就会显得非常平淡，没有质感。</p><p>那么这种质感的黑白照片如何制作？</p><p>其实是非常简单的。</p><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><p><ins class="adsbygoogle"style="display:block; text-align:center;"data-ad-layout="in-article"data-ad-format="fluid"data-ad-client="ca-pub-8628421778744385"data-ad-slot="9310927042"></ins></p><script>(adsbygoogle = window.adsbygoogle || []).push({});</script><ol><li><p>我们在Photoshop中打开照片。</p></li><li><p>在PS中选中需要编辑图层，在菜单中选择“图像→计算”</p></li></ol><p><img src="/images/202009/pasted-1.png" alt="设置参数"></p><ol start="3"><li><p>源1和源2图层选择需要编辑的图层，源1通道选择红，源2通道选择绿。</p></li><li><p>混合模式改为正片叠底。</p></li></ol><p>经过这么处理，一张很有质感的黑白照片就出炉了。</p><p><img src="/images/202009/pasted-2.png" alt="质感黑白照片"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 平面设计 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 质感 </tag>
+            
+            <tag> Photoshop </tag>
+            
+            <tag> PS </tag>
+            
+            <tag> 黑白照片 </tag>
+            
+            <tag> 黑白 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>PR简易版青橙效果，Adobe Premiere这不是一个调色教程</title>
+      <link href="/Cyan-and-orange-easy-20200728/"/>
+      <url>/Cyan-and-orange-easy-20200728/</url>
+      
+        <content type="html"><![CDATA[<p><strong>青橙是一种非常流行的颜色</strong></p><blockquote><p>橙色处于肤色线上，而青色是橙色的对比色。这一中颜色风格能让人感觉强烈，在电影掉色中也被广泛使用。</p></blockquote><p><em>以下内容都在颜色做基础校正的素材上使用，若非如此，可能会出现颜色怪异的情况。可使用Lumetri进行调整</em></p><p><img src="/images/07/pasted-7.png" alt="原始素材"><br>我们需要两个“调整图层”覆在视频素材上方。</p><p><img src="/images/202007/pasted-0.png" alt="时间线"><br>在其中一个调整图层上添加“通道混合器”效果，“蓝色-蓝色”修改到20左右，“蓝色-绿色”修改到80左右。效果如下</p><p><img src="/images/202007/pasted-1.png" alt="添加通道混合器后效果"></p><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><p><ins class="adsbygoogle"style="display:block; text-align:center;"data-ad-layout="in-article"data-ad-format="fluid"data-ad-client="ca-pub-8628421778744385"data-ad-slot="9310927042"></ins></p><script>(adsbygoogle = window.adsbygoogle || []).push({});</script><p>另外一个调整图层加上“快速颜色校正器”，将摄像角度调整唯8度。</p><p><img src="/images/202007/pasted-2.png" alt="快速颜色校正器参数"></p><p>就这么两步就可以简单制作青橙效果。</p><p><img src="/images/202007/pasted-3.png" alt="最终效果"></p><ul><li><p>需要说明的是，这个并不是真正意义上的好方法。只是一种偷懒的操作。比如快速出片时候。</p></li><li><p>对于我来说，不建议使用这种方式。还是建议真正喜欢青橙色调的朋友好好学习一下调色。</p></li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> PR教程 </category>
+          
+          <category> 效果制作 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Premiere </tag>
+            
+            <tag> PR </tag>
+            
+            <tag> Adobe Premiere </tag>
+            
+            <tag> 效果 </tag>
+            
+            <tag> 青橙色调 </tag>
+            
+            <tag> 青橙 </tag>
+            
+            <tag> 调色 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>PR 黑白动漫风格定格人物介绍 Adobe Premiere教程</title>
+      <link href="/PR-Black-and-white-animation/"/>
+      <url>/PR-Black-and-white-animation/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>在制作视频的时候，很多情况下，我们要对人物进行介绍凸显。</p></blockquote><ul><li>一般来说，较为常见的有两种，一种是字幕卡说明。这种情况用在有连贯的语音中比较多。</li><li>另外一种是将画面禁止，突出人物介绍。这种情况多为背景音乐时间。</li></ul><blockquote><p>这次做的就是一种定格人物介绍的样式。黑白动漫风格。</p></blockquote><p><img src="/images/07/pasted-2.png" alt="黑白动漫人物介绍成品效果图"></p><ol><li>首先我们打开Adobe Premiere，也就是我们的PR。</li><li>拉入我们的素材视频，并新建序列。</li></ol><p><strong>以上都是废话，下面才是正式开始</strong></p><ol><li>找到需要定格的那一帧，右键点击鼠标，使用“添加帧定格”或者“插入定格帧分段”将画面中这一帧制作出一个定格帧。</li></ol><blockquote><p>定格帧时长自行调节，看你的视频需要定下来多久。“添加帧定格”或者“插入定格帧分段”两个选项你怎么喜欢怎么来。如果定格后还需要运动，推荐使用“插入定格帧分段”，然后调整时间、闭合时间线。</p></blockquote><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><p><ins class="adsbygoogle"style="display:block; text-align:center;"data-ad-layout="in-article"data-ad-format="fluid"data-ad-client="ca-pub-8628421778744385"data-ad-slot="9310927042"></ins></p><script>(adsbygoogle = window.adsbygoogle || []).push({});</script><ol start="2"><li>在效果面板搜索棋盘，添加到定格帧上。</li></ol><blockquote><p>这时候定格帧就变成了大大小小的方格。</p></blockquote><p><img src="/images/07/pasted-3.png" alt="添加棋盘效果"></p><ol start="3"><li>在效果空间面板设置参数。一般只需要设置“宽度”和“混合模式”两个。以下为本次制作的参数。</li></ol><p><img src="/images/07/pasted-4.png" alt="棋盘效果参数"></p><p><img src="/images/07/pasted-5.png" alt="设置棋盘效果后的样子"></p><ol start="4"><li>继续在效果面板中搜索“黑白”效果，添加在定格帧上。</li></ol><p><img src="/images/07/pasted-6.png" alt="添加黑白效果"></p><blockquote><p>这时候已经有一些效果了。但是还是有些怪怪的。下一步就是让画面更像动漫。</p></blockquote><ol start="5"><li>效果面板搜索“RGB”曲线。我们调整主要曲线，将将黑色显示更黑，白色显示更白。更加具有漫画样子。</li></ol><blockquote><p>曲线没有固定模式，具体根据自己喜好调节。</p></blockquote><ol start="6"><li>最后一步就是创建漫画风格的边框。（看个人感觉吧。）</li></ol><blockquote><p>我这里使用的是旧版标题。而且是在一个旧版标题上处理。如果需要做动态效果，可以在多个旧版标题上制作，或者使用PNG图片。你怎么喜欢怎么来。</p></blockquote><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><p><ins class="adsbygoogle"style="display:block; text-align:center;"data-ad-layout="in-article"data-ad-format="fluid"data-ad-client="ca-pub-8628421778744385"data-ad-slot="9310927042"></ins></p><script>(adsbygoogle = window.adsbygoogle || []).push({});</script><p><strong>到这一步，也基本上完成了。当然，你也可以作Lumetri颜色校正。使对比反差更大</strong></p><ul><li>你学废了吗？</li><li>好像没用的技能又增加了呢</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> PR教程 </category>
+          
+          <category> 效果制作 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> PR </tag>
+            
+            <tag> Adobe Premiere </tag>
+            
+            <tag> 效果 </tag>
+            
+            <tag> 黑白动漫 </tag>
+            
+            <tag> 教程 </tag>
+            
+            <tag> 人物介绍 </tag>
+            
+            <tag> 定格 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>003 婚礼基本图形动态标题Mogrt Wedding Mogrt</title>
+      <link href="/Mogrt-Wedding-003/"/>
+      <url>/Mogrt-Wedding-003/</url>
+      
+        <content type="html"><![CDATA[<p>适用于Adobe Premiere的Mogrt动态标题。本模板适合婚庆，具体怎么用，具体大小，位置就靠你自己的感觉了。</p><p>编号Wedding Mogrt 003（婚礼标题003.mogrt）</p><p>Mogrt实用方法可以参照之前的文章：<a href="/20191101/Mogrt-Uses/">在Adobe Premiere中Mogrt如何使用？</a></p><p><img src="/images/07/pasted-1.png" alt="Wedding Mogrt 003呈现效果"></p><p><img src="/images/mogrt/202007/03.gif" alt="Wedding Mogrt 003动态效果"></p><h1 id="需求"><a href="#需求" class="headerlink" title="需求"></a>需求</h1><ol><li>一台电脑 </li><li>一个操作系统</li><li>一个Adobe Premiere非线性编辑软件</li><li>Mogrt基本图形模板文件</li></ol><h1 id="分辨率"><a href="#分辨率" class="headerlink" title="分辨率"></a>分辨率</h1><ul><li>默认分辨率为1920×1080，花纹为矢量图，可进行缩放。</li></ul><h1 id="可修改内容"><a href="#可修改内容" class="headerlink" title="可修改内容"></a>可修改内容</h1><ol><li>文字内容</li><li>文字颜色</li><li>文字字体</li><li>花纹颜色</li><li>阴影属性</li><li>环绕文字直径大小（连带花纹）</li></ol><h1 id="默认字体"><a href="#默认字体" class="headerlink" title="默认字体"></a>默认字体</h1><ol><li>沐瑶软笔手写体</li><li>思源宋体CN</li></ol><h1 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h1><p><a href="https://590m.com/file/16392555-451274526" target="_blank" rel="noopener">https://590m.com/file/16392555-451274526</a></p><h2 id="解压密码"><a href="#解压密码" class="headerlink" title="解压密码"></a>解压密码</h2><p>clovlife.com</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> PR插件 </category>
+          
+          <category> Mogrt </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Premiere </tag>
+            
+            <tag> PR </tag>
+            
+            <tag> Adobe Premiere </tag>
+            
+            <tag> Adobe </tag>
+            
+            <tag> Mogrt </tag>
+            
+            <tag> 基本图形 </tag>
+            
+            <tag> Wedding </tag>
+            
+            <tag> 婚礼标题 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>002 婚礼基本图形动态标题Mogrt Wedding Mogrt</title>
+      <link href="/Mogrt-Wedding-002/"/>
+      <url>/Mogrt-Wedding-002/</url>
+      
+        <content type="html"><![CDATA[<p>适用于Adobe Premiere的Mogrt动态标题。本模板适合婚庆，具体怎么用，具体大小，位置就靠你自己的感觉了。</p><p>编号Wedding Mogrt 002（婚礼标题002.mogrt）</p><p>Mogrt实用方法可以参照之前的文章：<a href="/20191101/Mogrt-Uses/">在Adobe Premiere中Mogrt如何使用？</a></p><p><img src="/images/07/pasted-0.png" alt="Wedding Mogrt 002呈现效果"></p><p><img src="/images/mogrt/202006/02.gif" alt="Wedding Mogrt 002动态效果"></p><h1 id="需求"><a href="#需求" class="headerlink" title="需求"></a>需求</h1><ol><li>一台电脑 </li><li>一个操作系统</li><li>一个Adobe Premiere非线性编辑软件</li><li>Mogrt基本图形模板文件</li></ol><h1 id="分辨率"><a href="#分辨率" class="headerlink" title="分辨率"></a>分辨率</h1><ul><li>默认分辨率为1920×1080，花纹为矢量图，可进行缩放。</li></ul><h1 id="可修改内容"><a href="#可修改内容" class="headerlink" title="可修改内容"></a>可修改内容</h1><ol><li>文字内容</li><li>文字颜色</li><li>文字字体</li><li>花纹颜色</li><li>阴影属性</li></ol><h1 id="默认字体"><a href="#默认字体" class="headerlink" title="默认字体"></a>默认字体</h1><ol><li>沐瑶软笔手写体</li><li>思源宋体CN</li></ol><h1 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h1><p><a href="https://590m.com/file/16392555-451274522" target="_blank" rel="noopener">https://590m.com/file/16392555-451274522</a></p><h2 id="解压密码"><a href="#解压密码" class="headerlink" title="解压密码"></a>解压密码</h2><p>clovlife.com</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> PR插件 </category>
+          
+          <category> Mogrt </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Premiere </tag>
+            
+            <tag> PR </tag>
+            
+            <tag> Adobe Premiere </tag>
+            
+            <tag> Adobe </tag>
+            
+            <tag> Mogrt </tag>
+            
+            <tag> 基本图形 </tag>
+            
+            <tag> Wedding </tag>
+            
+            <tag> 婚礼标题 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>001 婚礼基本图形动态标题Mogrt Wedding Mogrt</title>
+      <link href="/Mogrt-Wedding-001/"/>
+      <url>/Mogrt-Wedding-001/</url>
+      
+        <content type="html"><![CDATA[<p>适用于Adobe Premiere的Mogrt动态标题。本模板适合婚庆，具体怎么用，具体大小，位置就靠你自己的感觉了。</p><p>编号Wedding Mogrt 001（婚礼标题001.mogrt）</p><p>Mogrt实用方法可以参照之前的文章：<a href="/20191101/Mogrt-Uses/">在Adobe Premiere中Mogrt如何使用？</a></p><p><img src="/images/pasted-15.png" alt="呈现效果"></p><p><img src="/images/mogrt/202006/01.gif" alt="Wedding Mogrt 001动态效果"></p><h1 id="需求"><a href="#需求" class="headerlink" title="需求"></a>需求</h1><ol><li>一台电脑 </li><li>一个操作系统</li><li>一个Adobe Premiere非线性编辑软件</li><li>Mogrt基本图形模板文件</li></ol><h1 id="分辨率"><a href="#分辨率" class="headerlink" title="分辨率"></a>分辨率</h1><ul><li>默认分辨率为1920×1080，花纹为矢量图，可进行缩放。</li></ul><h1 id="可修改内容"><a href="#可修改内容" class="headerlink" title="可修改内容"></a>可修改内容</h1><ol><li>文字内容</li><li>文字颜色</li><li>文字字体</li><li>花纹颜色</li><li>阴影属性</li></ol><h1 id="默认字体"><a href="#默认字体" class="headerlink" title="默认字体"></a>默认字体</h1><ol><li>沐瑶软笔手写体</li><li>思源宋体CN</li></ol><h1 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h1><p><a href="https://590m.com/file/16392555-451274020" target="_blank" rel="noopener">https://590m.com/file/16392555-451274020</a></p><h2 id="解压密码"><a href="#解压密码" class="headerlink" title="解压密码"></a>解压密码</h2><p>clovlife.com</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> PR插件 </category>
+          
+          <category> Mogrt </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Premiere </tag>
+            
+            <tag> PR </tag>
+            
+            <tag> Adobe Premiere </tag>
+            
+            <tag> Adobe </tag>
+            
+            <tag> Mogrt </tag>
+            
+            <tag> 基本图形 </tag>
+            
+            <tag> Wedding </tag>
+            
+            <tag> 婚礼标题 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>音频人声和伴奏分离，提取人声和伴奏的方法（简易版）</title>
+      <link href="/Audio-separation/"/>
+      <url>/Audio-separation/</url>
+      
+        <content type="html"><![CDATA[<p>你是否碰到过下面这些情况。</p><ul><li>只保存了合成音频，没有清唱版本。不能重新做混音。</li><li>歌曲没有伴奏，在一些现场演出时候不太方便。</li></ul><blockquote><p>这个时候你就需要将音频和视频分离。<br>常规来说，这时候的做法是使用专业软件来进行分离，比如Adobe的AU，或者更专业软件。<br>至少我不懂。还为了这个事情困扰了很久。</p></blockquote><p><strong>那么有没有简单的方法？？？？</strong></p><p>↓↓↓↓↓↓↓答案是↓↓↓↓↓↓↓</p><h1 id="有的"><a href="#有的" class="headerlink" title="有的"></a>有的</h1><p>你需要这个→  <strong>Ezstems</strong> <em>音频分离网站</em>：<a href="https://ezstems.com/" target="_blank" rel="noopener">https://ezstems.com/</a></p><p><img src="/images/pasted-14.png" alt="网站界面"></p><p>很简单的上传你需要分离的音频，然后做简单设置。点击Start。</p><blockquote><p>之后就是等待。</p></blockquote><p><strong>需要说明的是，这个网站速度还是比较慢的，下载时候记得有耐心。</strong></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 收集内容 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 音频 </tag>
+            
+            <tag> 伴奏 </tag>
+            
+            <tag> 网站 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>PS将模糊图片变清晰 - PhotoShop技能</title>
+      <link href="/PS-blur-becomes-clear/"/>
+      <url>/PS-blur-becomes-clear/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>在很多时候，我们需要对一些图片进行放大。这时候就会使图片变得模糊。<br>这时候可以通过以下几步进行处理，使图片稍微变得清晰。</p></blockquote><h1 id="需求"><a href="#需求" class="headerlink" title="需求"></a>需求</h1><ol><li>高一些版本的Adobe PhotoShop</li><li>不太清晰的图片</li></ol><p><img src="/images/2020/20200619160140.jpg" alt="原始图片"></p><h1 id="步骤"><a href="#步骤" class="headerlink" title="步骤"></a>步骤</h1><h2 id="放大图片"><a href="#放大图片" class="headerlink" title="放大图片"></a>放大图片</h2><p>直接设置图片大小</p><p>高版本PS有重新采样功能，选择保留细节2.0，减少杂色直接拉满。</p><p><img src="/images/2020/20200619160314.jpg" alt="放大设置"></p><p>这种放大方式显然是不够的，整体图片显得十分模糊。</p><h2 id="图片改清晰"><a href="#图片改清晰" class="headerlink" title="图片改清晰"></a>图片改清晰</h2><ol><li>复制一个图层</li><li>描边。处理方法：滤镜→其他→高反差保留。参数没有具体设置，拉动数值，能看到图片主体轮廓即可。<br><img src="/images/2020/20200619161033.jpg" alt="高反差保留"></li><li>设置叠加模式为线性光<br><img src="/images/2020/20200619161218.jpg" alt="设置线性光"></li><li>盖章图片。对已高反差保留的图片进行盖章。Ctrl+Shift+Alt+E。<br><img src="/images/2020/20200619161304.jpg" alt="盖章图片"></li><li>减少杂色。处理方法：滤镜→杂色→减少杂色。参数大概如下图设置。<br><img src="/images/2020/20200619161326.jpg" alt="减少杂色"></li></ol><p>一切搞定。</p><blockquote><p>具体内容根据图片不同也有差异。</p></blockquote><p><img src="/images/2020/20200619161544.jpg" alt="减少杂色"></p><ul><li>上图右侧为清晰后的效果，左图只做了放大。</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 平面设计 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Photoshop </tag>
+            
+            <tag> PS </tag>
+            
+            <tag> 照片 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>《四季诗韵》PPT制作  永定区国学经典朗诵比赛</title>
+      <link href="/20191125_guoxue_jingdian_songdu/"/>
+      <url>/20191125_guoxue_jingdian_songdu/</url>
+      
+        <content type="html"><![CDATA[<p>《四季诗韵》<br>使用环境：追忆先闲 传颂经典 永定区国学经典朗诵比赛</p><p>使用时间：2019年11月25日</p><p>使用地点：福建省龙岩市永定区城关中心小学</p><p>使用单位：永定区城东小学</p><p>比赛成绩：第四名（二等奖）</p><h1 id="PPT内容"><a href="#PPT内容" class="headerlink" title="PPT内容"></a>PPT内容</h1><p><img src="/images/pasted-13.png" alt="ppt整体截图"></p><ul><li>ppt详情<p class="video"><iframe src="https://v.qq.com/txp/iframe/player.html?vid=z3041vcm1jh" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p></li></ul><h1 id="PPT使用环境"><a href="#PPT使用环境" class="headerlink" title="PPT使用环境"></a>PPT使用环境</h1><p><img src="/images/2019112801.jpg" alt="比赛现场照片"></p><p><img src="/images/2019112802.jpg" alt="比赛现场照片"></p><p><img src="/images/2019112803.jpg" alt="比赛现场照片"></p><p><img src="/images/2019112804.jpg" alt="比赛现场照片"></p><p><img src="/images/2019112805.jpg" alt="比赛现场照片"></p><p><img src="/images/2019112806.jpg" alt="比赛现场照片"></p><p><img src="/images/2019112807.jpg" alt="比赛现场照片"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 案例 </category>
+          
+          <category> PPT </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 案例 </tag>
+            
+            <tag> PPT </tag>
+            
+            <tag> 朗诵 </tag>
+            
+            <tag> 比赛 </tag>
+            
+            <tag> 永定区 </tag>
+            
+            <tag> 追忆先闲 </tag>
+            
+            <tag> 传颂经典 </tag>
+            
+            <tag> 国学 </tag>
+            
+            <tag> 经典 </tag>
+            
+            <tag> PPT案例 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>《劳动托起中国梦》PPT制作</title>
+      <link href="/20191226-PPT-laodong-zhongguomeng/"/>
+      <url>/20191226-PPT-laodong-zhongguomeng/</url>
+      
+        <content type="html"><![CDATA[<p>《劳动托起中国梦》PPT制作</p><p>使用环境：永定区“美好生活 劳动创造”中小学生朗诵比赛<br>使用时间：2019年12月26日<br>使用地点：福建省龙岩市永定区城关中心小学<br>使用单位：永定区城东小学<br>比赛成绩：三等奖</p><h1 id="PPT内容"><a href="#PPT内容" class="headerlink" title="PPT内容"></a>PPT内容</h1><p><img src="/images/pasted-9.png" alt="ppt整体截图"></p><ul><li>ppt详情<p class="video"><iframe src="https://v.qq.com/txp/iframe/player.html?vid=s30410nc34d" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p></li></ul><h1 id="PPT使用环境"><a href="#PPT使用环境" class="headerlink" title="PPT使用环境"></a>PPT使用环境</h1><ul><li>比赛现场视频<p class="video"><iframe src="https://v.qq.com/txp/iframe/player.html?vid=v3041es1jqg" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p></li></ul><p><img src="/images/pasted-10.png" alt="比赛现场照片"></p><p><img src="/images/pasted-11.png" alt="比赛现场照片"></p><p><img src="/images/pasted-12.png" alt="比赛现场照片"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 案例 </category>
+          
+          <category> PPT </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 案例 </tag>
+            
+            <tag> PPT </tag>
+            
+            <tag> 朗诵 </tag>
+            
+            <tag> 比赛 </tag>
+            
+            <tag> 永定区 </tag>
+            
+            <tag> PPT案例 </tag>
+            
+            <tag> 美好生活 </tag>
+            
+            <tag> 劳动创造 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>《做一名有创造力的劳动者》PPT制作</title>
+      <link href="/20191226_PPT_chuangzaoli_laodongzhe/"/>
+      <url>/20191226_PPT_chuangzaoli_laodongzhe/</url>
+      
+        <content type="html"><![CDATA[<p>《做一名有创造力的劳动者》PPT制作</p><p>使用环境：永定区“美好生活 劳动创造”中小学生朗诵比赛<br>使用时间：2019年12月26日<br>使用地点：福建省龙岩市永定区城关中心小学<br>使用单位：永定区城东小学<br>比赛成绩：三等奖</p><h1 id="PPT内容"><a href="#PPT内容" class="headerlink" title="PPT内容"></a>PPT内容</h1><p><img src="/images/pasted-2.png" alt="ppt整体截图"></p><ul><li>ppt详情<p class="video"><iframe src="https://v.qq.com/txp/iframe/player.html?vid=c3041asndyn" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p></li></ul><h1 id="PPT使用环境"><a href="#PPT使用环境" class="headerlink" title="PPT使用环境"></a>PPT使用环境</h1><ul><li>比赛现场视频<p class="video"><iframe src="https://v.qq.com/txp/iframe/player.html?vid=a3041vx6v7j" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p></li></ul><p><img src="/images/pasted-3.png" alt="比赛现场照片"></p><p><img src="/images/pasted-4.png" alt="比赛现场照片"></p><p><img src="/images/pasted-5.png" alt="比赛现场照片"></p><p><img src="/images/pasted-6.png" alt="比赛现场照片"></p><p><img src="/images/pasted-7.png" alt="u比赛现场照片"></p><p><img src="/images/pasted-8.png" alt="比赛现场照片"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 案例 </category>
+          
+          <category> PPT </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 案例 </tag>
+            
+            <tag> PPT </tag>
+            
+            <tag> 朗诵 </tag>
+            
+            <tag> 比赛 </tag>
+            
+            <tag> 永定区 </tag>
+            
+            <tag> PPT案例 </tag>
+            
+            <tag> 美好生活 </tag>
+            
+            <tag> 劳动创造 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>高级感色彩搭配</title>
+      <link href="/Advanced-color-match-001/"/>
+      <url>/Advanced-color-match-001/</url>
+      
+        <content type="html"><![CDATA[<p>有时候做图片，或者对网页进行调色的时候，我们会感觉无从下手。</p><p>也许这几个配色方案会让你找到一些灵感。</p><h1 id="邻近色"><a href="#邻近色" class="headerlink" title="邻近色"></a>邻近色</h1><h2 id="第一套"><a href="#第一套" class="headerlink" title="第一套"></a>第一套</h2><table><tr><td width=300 bgcolor=#FA8A96>#FA8A96</td></tr></table><table><tr><td width=300 bgcolor=#955B8E>#955B8E</td></tr></table><table><tr><td width=300 bgcolor=#7A6B9E>#7A6B9E</td></tr></table><table><tr><td width=300 bgcolor=#829AC4>#829AC4</td></tr></table><table><tr><td width=300 bgcolor=#AAC8D0>#AAC8D0</td></tr></table><h2 id="第二套"><a href="#第二套" class="headerlink" title="第二套"></a>第二套</h2><table><tr><td width=300 bgcolor=#E67C09>#E67C09</td></tr></table><table><tr><td width=300 bgcolor=#F29C0F>#F29C0F</td></tr></table><table><tr><td width=300 bgcolor=#F2B417>#F2B417</td></tr></table><table><tr><td width=300 bgcolor=#F1CF09>#F1CF09</td></tr></table><table><tr><td width=300 bgcolor=#EADF00>#EADF00</td></tr></table><h2 id="第三套"><a href="#第三套" class="headerlink" title="第三套"></a>第三套</h2><table><tr><td width=300 bgcolor=#33539E>#33539E</td></tr></table><table><tr><td width=300 bgcolor=#7FACD6>#7FACD6</td></tr></table><table><tr><td width=300 bgcolor=#BFB8DA>#BFB8DA</td></tr></table><table><tr><td width=300 bgcolor=#E8B7D4>#E8B7D4</td></tr></table><table><tr><td width=300 bgcolor=#A5678E>#A5678E</td></tr></table><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><p><ins class="adsbygoogle"     style="display:block; text-align:center;"     data-ad-layout="in-article"     data-ad-format="fluid"     data-ad-client="ca-pub-8628421778744385"     data-ad-slot="9310927042"></ins></p><script>     (adsbygoogle = window.adsbygoogle || []).push({});</script><h1 id="对比色"><a href="#对比色" class="headerlink" title="对比色"></a>对比色</h1><h2 id="第一套-1"><a href="#第一套-1" class="headerlink" title="第一套"></a>第一套</h2><table><tr><td width=300 bgcolor=#DEAFE4>#DEAFE4</td></tr></table><table><tr><td width=300 bgcolor=#F9E07D>#F9E07D</td></tr></table><table><tr><td width=300 bgcolor=#EDC6C7>#EDC6C7</td></tr></table><table><tr><td width=300 bgcolor=#8BD0F0>#8BD0F0</td></tr></table><table><tr><td width=300 bgcolor=#B4E0EB>#B4E0EB</td></tr></table><h2 id="第二套-1"><a href="#第二套-1" class="headerlink" title="第二套"></a>第二套</h2><table><tr><td width=300 bgcolor=#93C6BD>#93C6BD</td></tr></table><table><tr><td width=300 bgcolor=#C1E1DA>#C1E1DA</td></tr></table><table><tr><td width=300 bgcolor=#DBE1EA>#DBE1EA</td></tr></table><table><tr><td width=300 bgcolor=#F2C29F>#F2C29F</td></tr></table><table><tr><td width=300 bgcolor=#E9A475>#E9A475</td></tr></table><h2 id="第三套-1"><a href="#第三套-1" class="headerlink" title="第三套"></a>第三套</h2><table><tr><td width=300 bgcolor=#B6CFD9>#B6CFD9</td></tr></table><table><tr><td width=300 bgcolor=#C0BCCC>#C0BCCC</td></tr></table><table><tr><td width=300 bgcolor=#D2C3D1>#D2C3D1</td></tr></table><table><tr><td width=300 bgcolor=#E9C8D7>#E9C8D7</td></tr></table><table><tr><td width=300 bgcolor=#F8E1D8>#F8E1D8</td></tr></table><h1 id="互补色"><a href="#互补色" class="headerlink" title="互补色"></a>互补色</h1><h2 id="第一套-2"><a href="#第一套-2" class="headerlink" title="第一套"></a>第一套</h2><table><tr><td width=300 bgcolor=#DC3971>#DC3971</td></tr></table><table><tr><td width=300 bgcolor=#EC719F>#EC719F</td></tr></table><table><tr><td width=300 bgcolor=#F3B3CC>#F3B3CC</td></tr></table><table><tr><td width=300 bgcolor=#ABE5E8>#ABE5E8</td></tr></table><table><tr><td width=300 bgcolor=#34ADAE>#34ADAE</td></tr></table><h2 id="第二套-2"><a href="#第二套-2" class="headerlink" title="第二套"></a>第二套</h2><table><tr><td width=300 bgcolor=#6C80A8>#6C80A8</td></tr></table><table><tr><td width=300 bgcolor=#B7BED1>#B7BED1</td></tr></table><table><tr><td width=300 bgcolor=#E1E0E1>#E1E0E1</td></tr></table><table><tr><td width=300 bgcolor=#FCF2CE>#FCF2CE</td></tr></table><table><tr><td width=300 bgcolor=#CBCBC0>#CBCBC0</td></tr></table><h2 id="第三套-2"><a href="#第三套-2" class="headerlink" title="第三套"></a>第三套</h2><table><tr><td width=300 bgcolor=#7CF0E4>#7CF0E4</td></tr></table><table><tr><td width=300 bgcolor=#CBF4EE>#CBF4EE</td></tr></table><table><tr><td width=300 bgcolor=#D2EBF7>#D2EBF7</td></tr></table><table><tr><td width=300 bgcolor=#86CAE9>#86CAE9</td></tr></table><table><tr><td width=300 bgcolor=#8BB4EA>#8BB4EA</td></tr></table>]]></content>
+      
+      
+      <categories>
+          
+          <category> 平面设计 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 高级感 </tag>
+            
+            <tag> 色彩 </tag>
+            
+            <tag> 搭配 </tag>
+            
+            <tag> 邻近色 </tag>
+            
+            <tag> 互补色 </tag>
+            
+            <tag> 对比色 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>使用PR让视频保留一种颜色</title>
+      <link href="/PR-one-color/"/>
+      <url>/PR-one-color/</url>
+      
+        <content type="html"><![CDATA[<p>在制作视频的时候，在一些情况下，我们需要只保留一种颜色，从而达到突出主体的效果。</p><p><img src="/images/pasted-1.png" alt="保留单色视频效果"></p><p>这种视频做出来很简单。通过PR自带的插件即可实现。</p><p><strong>在做之前我们要确保视频主体颜色和环境颜色有比较大反差</strong></p><p>导入视频到时间线后，我们在“效果”面板找到“视频效果-&gt;颜色校正-&gt;保留颜色（有些版本也叫脱色）”</p><p>然后在效果控件中设置保留颜色参数。</p><p><img src="/images/pasted-0.png" alt="案例中的设置参数"></p><ol><li>首先用吸管工具吸取需要保留的颜色。</li><li>脱色量调整为100。</li><li>匹配颜色调整为色相。当然不怕麻烦的话，RGB也是可以的。</li><li>适当调整容差和边缘饱和度数值。</li></ol><p>至于这些参数怎么调整，那么就怎么方便怎么来，关键是你喜欢。</p><p>搞定收工，好了，你学废了吗？</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> PR教程 </category>
+          
+          <category> 效果制作 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> PR </tag>
+            
+            <tag> 效果 </tag>
+            
+            <tag> 保留 </tag>
+            
+            <tag> 颜色 </tag>
+            
+            <tag> 你学废了吗 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>关于避免版权风险的一些无版权或版权检测网站</title>
+      <link href="/no-copyright-website/"/>
+      <url>/no-copyright-website/</url>
+      
+        <content type="html"><![CDATA[<p>为了避免版权问题，收集了以下网站：</p><p>首先请检查下你的字体是否可商用。</p><h3 id="字体检测"><a href="#字体检测" class="headerlink" title="字体检测"></a>字体检测</h3><p><a href="https://fonts.safe.360.cn" target="_blank" rel="noopener">360查字体</a></p><p>然后是图片：</p><h3 id="图片"><a href="#图片" class="headerlink" title="图片"></a>图片</h3><table><thead><tr><th>网站</th><th align="center">网址</th><th align="right">其他说明</th></tr></thead><tbody><tr><td>Gratisography</td><td align="center"><a href="https://gratisography.com" target="_blank" rel="noopener">https://gratisography.com</a></td><td align="right"></td></tr><tr><td>Visualhunt</td><td align="center"><a href="https://visualhunt.com" target="_blank" rel="noopener">https://visualhunt.com</a></td><td align="right"></td></tr><tr><td>Photock</td><td align="center"><a href="https://www.photock.jp" target="_blank" rel="noopener">https://www.photock.jp</a></td><td align="right"></td></tr><tr><td>StockSnap</td><td align="center"><a href="https://stocksnap.io" target="_blank" rel="noopener">https://stocksnap.io</a></td><td align="right"></td></tr><tr><td>泼辣有图</td><td align="center"><a href="http://www.polayoutu.com/collections" target="_blank" rel="noopener">http://www.polayoutu.com/collections</a></td><td align="right"></td></tr><tr><td>picjumbo</td><td align="center"><a href="https://picjumbo.com" target="_blank" rel="noopener">https://picjumbo.com</a></td><td align="right"></td></tr><tr><td>FreeImages</td><td align="center"><a href="https://cn.freeimages.com" target="_blank" rel="noopener">https://cn.freeimages.com</a></td><td align="right"></td></tr></tbody></table><h3 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h3><table><thead><tr><th>网站</th><th align="center">包含内容</th><th align="center">网址</th><th align="right">其他说明</th></tr></thead><tbody><tr><td>Pexels</td><td align="center">图片+视频</td><td align="center"><a href="https://www.pexels.com" target="_blank" rel="noopener">https://www.pexels.com</a></td><td align="right"></td></tr></tbody></table><h3 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h3><table><thead><tr><th>网站</th><th align="center">网址</th><th align="right">其他说明</th></tr></thead><tbody><tr><td>FreePD</td><td align="center"><a href="https://freepd.com" target="_blank" rel="noopener">https://freepd.com</a></td><td align="right"></td></tr></tbody></table>]]></content>
+      
+      
+      <categories>
+          
+          <category> 收集内容 </category>
+          
+          <category> 网站 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 字体 </tag>
+            
+            <tag> 网站 </tag>
+            
+            <tag> 版权 </tag>
+            
+            <tag> 无版权 </tag>
+            
+            <tag> 版权检测 </tag>
+            
+            <tag> 图片 </tag>
+            
+            <tag> 视频 </tag>
+            
+            <tag> 音乐 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>7种提升摄像质感的窍门</title>
+      <link href="/7-Camera-quality-Trick/"/>
+      <url>/7-Camera-quality-Trick/</url>
+      
+        <content type="html"><![CDATA[<p>今天说一下摄像质量的提升的7种方法，在实际拍摄中，只要好好运用这几种方法，相信对视频质量会有一些提升。</p><h1 id="1、运动"><a href="#1、运动" class="headerlink" title="1、运动"></a>1、运动</h1><p><strong>让我们的设备运动起来</strong></p><p><img src="/images/movie.gif" alt="移动相机/摄像机"></p><ul><li>在视频中，运动是非常重要的。比如相机在位置上的进退、上下、平移，都可以在视觉上让视频质量做一个小幅提升。</li><li>当然，这一切都是在保证拍摄的画面保持平稳的情况下实现的。</li></ul><h2 id="画面平稳"><a href="#画面平稳" class="headerlink" title="画面平稳"></a>画面平稳</h2><blockquote><p>保证画面平稳流畅有几种方法：</p><blockquote><ol><li>使用轨道或滑轨</li><li>使用稳定器</li><li>使用衣服在桌面平滑移动</li><li>使用带轮子的椅子</li><li>方法还很多，怎么方便怎么来，信奉“办法总比困难多”</li><li>实在没有办法，就在后期加个关键帧，做一点移动吧。</li></ol></blockquote></blockquote><h1 id="2、镜头"><a href="#2、镜头" class="headerlink" title="2、镜头"></a>2、镜头</h1><p><strong>使用大光圈镜头</strong><br>在条件允许的情况下，尽量使用大光圈镜头。<strong><em>比如使用F1.2-F2.8</em></strong>。</p><ol><li>光圈号码越小，对于背景的虚化也就越强烈。</li><li>这样能跟容易突出主体。</li></ol><p><img src="/images/F2.8images.png" alt="F2.8 1/250s ISO 2000 来源:photofans 赵政雄"></p><p>在使用过大光圈镜头之后，相信你会爱上这种感觉。</p><h1 id="3、背景"><a href="#3、背景" class="headerlink" title="3、背景"></a>3、背景</h1><p><strong>不要让背景过曝</strong><br>在拍摄的时候特别注意一下背景产生过曝的情况。<br>现在的设备虽然越来越强大，却总和我们的眼睛所见有一些差别。<br>拍摄素材产生过曝的话，强光部的细节信息就会丢失，对于这样的视频，在后期的时候只有头疼这一选择。</p><ol><li>电影中我们很少看到过曝</li><li>更贴近现实所见</li></ol><h2 id="降低过曝"><a href="#降低过曝" class="headerlink" title="降低过曝"></a>降低过曝</h2><p>不产生过曝有几种方法可以参考一下。</p><ol><li>在相机设置中打开LOG</li><li>使用ND</li><li>最重要的是尽量避免这种环境</li></ol><h1 id="4、升格"><a href="#4、升格" class="headerlink" title="4、升格"></a>4、升格</h1><p><strong>多拍摄高桢素材</strong><br>在出门拍摄的时候，尽量多带内存卡。<br>特别是对人像拍摄时候，有多少内存卡就带多少内存卡。如果真的担心内存卡不够，那么带上你的数据线和笔记本电脑吧。<br>我们在拍摄升格素材后，后期就能跟方便的对素材进行减速。</p><ul><li>增加影片质感</li><li>剔除细微振动</li></ul><p>当然，如果相机/摄像机还是只有30fps，其实也是可以做一些升格的。这里建议不要将速度低于75%。</p><h1 id="5、对比度"><a href="#5、对比度" class="headerlink" title="5、对比度"></a>5、对比度</h1><p><strong>在视频拍摄中使用低对比度</strong></p><ul><li>关于画面：这样做虽然使素材看起来比较暗沉，但是却可以保留更多的细节。</li><li>关于调色：低对比度视频调色是时间会增加一些，但是却能更好的还原现场画面，让视频画面质感进一步提升。</li></ul><h2 id="实现方法"><a href="#实现方法" class="headerlink" title="实现方法"></a>实现方法</h2><ol><li>最推荐的是使用LOG</li><li>降低曝光补偿和饱和度选项</li></ol><h1 id="6、调色"><a href="#6、调色" class="headerlink" title="6、调色"></a>6、调色</h1><p>在经过以上步骤处理后，得到的素材已经是很不错的素材了。<br>因为我们拍摄的素材比较暗，保留细节也足够，在后期调色的时候，这方面的优势就出现了。我们也将对素材调色的空间也更加大。</p><ul><li>使用LOG拍摄先下载LUTS</li><li>一级调色尽量统一颜色和还原现场</li></ul><h1 id="7、黑柵"><a href="#7、黑柵" class="headerlink" title="7、黑柵"></a>7、黑柵</h1><p><strong>上下添加两条黑框</strong><br>在一些视频中，不妨在上下都添加上一条黑边，或者对视频进行裁剪处理。通过这样的手段模拟出电影宽荧幕的效果，也可以对视频做一些提升。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 摄像 </category>
+          
+          <category> 小技巧 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 摄像 </tag>
+            
+            <tag> 窍门 </tag>
+            
+            <tag> 质感 </tag>
+            
+            <tag> 技巧 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Adobe Premiere字体没有正确显示中文名称的处理方式</title>
+      <link href="/Adobe-Premiere-Fonts/"/>
+      <url>/Adobe-Premiere-Fonts/</url>
+      
+        <content type="html"><![CDATA[<p>在剪辑时候，我们打开PR输入文字。这种时候一般来说都不会使用默认字体。新装的Adobe Premiere有些情况就会出现字体并没有显示中文名称的情况。<br><img src="/images/2019/11/02/fde4edc0-fd3a-11e9-b428-2d2ab7592b0c.png" alt="Adobe Premiere没有显示正确字体名称"></p><blockquote><p>这个功能很重要。</p></blockquote><ul><li>不要小看这个功能。现在版权问题是很严重的一个问题，当我们不知道字体名称，而只是要预览进行字体选择时，我们就要面临两个选择：</li><li>1.使用字体英语名称去搜索是否是无版权字体。</li><li>2.不搜索，对视频不进行商用或随时准备承担版权风险。</li><li>相信这两点，都不是视频制作者想要的结果。</li></ul><p>那么修复Adobe Premiere就是一个不错方式。</p><h1 id="修复方法"><a href="#修复方法" class="headerlink" title="修复方法"></a>修复方法</h1><h2 id="文件目录"><a href="#文件目录" class="headerlink" title="文件目录"></a>文件目录</h2><p>我们需要修改的文件是AdobeFnt_OSFonts.lst这个文件。这个文件默认是在：<br><code>C:\Users\&quot;你的用户名&quot;\AppData\Local\Temp\Adobe\Premiere Pro\【11.0/12.0/13.0】\Typesupport\AdobeFnt_OSFonts.lst</code></p><p>对于非多人共用一台电脑的用户来说。我们可以首选打开“C:\Users\Administrator\AppData\Local\Temp\Adobe\Premiere Pro”。之后是11.0/12.0/13.0就根据你的软件版本来决定了。</p><p>继续深入，或者直接使用搜索功能找到“AdobeFnt_OSFonts.lst”。</p><h2 id="修改文件"><a href="#修改文件" class="headerlink" title="修改文件"></a>修改文件</h2><p>我们使用任意文本工具打开“AdobeFnt_OSFonts.lst”。就会看到一大堆英文组成的PR字体配置文件。在文件中，我们可以看到“FamilyNameNative”与“FamilyName”字段。</p><p><img src="/images/2019/11/02/50d285f0-fd3c-11e9-b428-2d2ab7592b0c.png" alt="需要修改的文件内容"></p><p>FamilyName就是在PR中直接显示的名称，我们只要将“FamilyNameNative”与“FamilyName”互换即可。</p><p><img src="/images/2019/11/02/91657000-fd3c-11e9-b428-2d2ab7592b0c.png" alt="修改完成后的样子"></p><blockquote><p>你可以选择修改全部中文字体，也可以搜索常用字体进行修改。<br>我这里偷懒了一下，直接用替换功能，把“FamilyNameNative:”直接全部替换成了“FamilyName:”。反正我也搞不懂这两个字段是什么意思。<br><strong>PS：需要这么操作的，记得备份一下原始文件，以免出现错误。</strong></p></blockquote><p>修改完成，重启PR，这时候就会发现，PR的字体已经正常显示了！</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> PR教程 </category>
+          
+          <category> 软件问题 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Premiere </tag>
+            
+            <tag> PR </tag>
+            
+            <tag> Adobe Premiere </tag>
+            
+            <tag> Adobe </tag>
+            
+            <tag> 字体 </tag>
+            
+            <tag> 中文 </tag>
+            
+            <tag> 名称 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>在Adobe Premiere中Mogrt如何使用？</title>
+      <link href="/Mogrt-Uses/"/>
+      <url>/Mogrt-Uses/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>在视频编辑中，我们经常需要添加动态字幕。这时候如果有一个模板，那么处理起来的速度很多。不少软件也因此应运而生。</p></blockquote><ul><li>其实如果你使用的软件是Adobe Premiere，那么就算是没有第三方软件，也可以快速的构建动态字幕。</li></ul><h1 id="需求"><a href="#需求" class="headerlink" title="需求"></a>需求</h1><ol><li>一台电脑 </li><li>一个操作系统</li><li>一个Adobe Premiere非线性编辑软件</li><li>Mogrt基本图形模板文件</li></ol><h1 id="步骤"><a href="#步骤" class="headerlink" title="步骤"></a>步骤</h1><h2 id="第一步：打开PR创建工程"><a href="#第一步：打开PR创建工程" class="headerlink" title="第一步：打开PR创建工程"></a>第一步：打开PR创建工程</h2><p>这一步不再赘述</p><h2 id="第二步：打开基本图形界面"><a href="#第二步：打开基本图形界面" class="headerlink" title="第二步：打开基本图形界面"></a>第二步：打开基本图形界面</h2><p>在PR菜单中，找到基本图形，点选后可以打开基本图形界面。</p><p><img src="/images/2019/11/01/37b8a8e0-fc76-11e9-b1a0-07a5067f3d70.png" alt="Mogrt基本图形界面打开"></p><h2 id="第三步：导入Mogrt基本图形"><a href="#第三步：导入Mogrt基本图形" class="headerlink" title="第三步：导入Mogrt基本图形"></a>第三步：导入Mogrt基本图形</h2><p>Mogrt基本图形的界面是这样的：</p><p><img src="/images/2019/11/01/5e1c1530-fc76-11e9-b1a0-07a5067f3d70.png" alt="Mogrt基本图形界面"></p><p>我们只要点击右下角的符号添加，就可以进行导入。</p><p><img src="/images/2019/11/01/6da214f0-fc76-11e9-b1a0-07a5067f3d70.png" alt="Mogrt导入图标"></p><p>导入完成后，在“浏览”栏中就会出现我们导入的Mogrt基本图形。</p><p><img src="/images/2019/11/01/dfdffe10-fc76-11e9-b1a0-07a5067f3d70.png" alt="Mogrt导入位置"></p><h2 id="第四步：添加Mogrt基本图形"><a href="#第四步：添加Mogrt基本图形" class="headerlink" title="第四步：添加Mogrt基本图形"></a>第四步：添加Mogrt基本图形</h2><p>Mogrt基本图形的添加方式十分简单，只要选中所需Mogrt，拖入到时间中相应的<strong>视频轨道</strong>即可。</p><h2 id="第五步：修改文字"><a href="#第五步：修改文字" class="headerlink" title="第五步：修改文字"></a>第五步：修改文字</h2><p>Mogrt基本图形都有自带内容，我们在添加好Mogrt后，需要对这些内容进行修改。<br>我们在时间线上点击我们的添加的Mogrt，一般显示为粉色!<br><img src="/images/2019/11/01/54ae07f0-fc77-11e9-b1a0-07a5067f3d70.png" alt="Mogrt在时间线上"><br>选中之后，基本图形属性一栏会自动跳转到编辑选项。我们只要对相应的文字、文字颜色、字体样式，文字属性、线框颜色进行调整就可以了。<br><img src="/images/2019/11/01/a306f240-fc77-11e9-b1a0-07a5067f3d70.png" alt="Mogrt基本图形修改属性"></p><blockquote><p>不少Mogrt发布者在发布时没有加上文本属性，所以字体、文字样式、文字大小都是不可以修改的。</p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> PR插件 </category>
+          
+          <category> Mogrt </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Premiere </tag>
+            
+            <tag> PR </tag>
+            
+            <tag> Adobe Premiere </tag>
+            
+            <tag> Adobe </tag>
+            
+            <tag> Mogrt </tag>
+            
+            <tag> 基本图形 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>《龙岩永定奥杳楼下村大福》纪录片</title>
+      <link href="/yongding-aoyao-louxiacun/"/>
+      <url>/yongding-aoyao-louxiacun/</url>
+      
+        <content type="html"><![CDATA[<h1 id="视频播放"><a href="#视频播放" class="headerlink" title="视频播放"></a>视频播放</h1><p class="video"><iframe src="https://v.qq.com/txp/iframe/player.html?vid=r30124dlmrg" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p><h1 id="制作"><a href="#制作" class="headerlink" title="制作"></a>制作</h1><h2 id="BING"><a href="#BING" class="headerlink" title="BING"></a>BING</h2><ul><li>素材拍摄</li><li>视频剪辑</li><li>调色</li><li>配乐</li></ul><h2 id="CLOV"><a href="#CLOV" class="headerlink" title="CLOV"></a>CLOV</h2><ul><li>宣传字幕校对、制作</li><li>mogrt片尾</li><li>AE片头</li><li>千年台喜出名单滚动字幕制作</li></ul><h1 id="软件"><a href="#软件" class="headerlink" title="软件"></a>软件</h1><blockquote><p>Adobe Premiere<br>Adobe After Effects</p></blockquote><h1 id="解说词"><a href="#解说词" class="headerlink" title="解说词"></a>解说词</h1><blockquote><p>为革命基点村。楼下是革命基点村同时亦是对台重要窗口，是众多台胞的祖籍地，楼下村在台同胞有一万多人，两岸宗亲来往密切，九十年代台湾宗亲回乡立学校、建礼堂、修宗祠，大力支持建设家乡事业。一九九七年，时任永定县县委书记黄坤明（现中宣部部长）曾莅临楼下村指导工作，慰问“五老人员”，题匾“源远流长”留念。<br>近年来，在上级党委、政府关心及社会各界热心人士支持下，楼下村村容村貌发生巨大变化，村民生产、生活条件得到明显改善，各项事业得到全面发展，现村里主干道路都已水泥硬化，四通八达，晚上路灯灯火通明。村容整洁、民风淳朴，人民遵纪守法、安居乐业、诚实守信。为此楼下村先后获得“信用村”、“共青村”、“平安和谐村”、“县文明村”、“市文明村”等荣誉称号，2019年被列为“省级美丽乡村建设村”。<br>楼下村具备发展旅游优势，富丽堂皇的古建筑“敦伦堂”、历史悠久的土楼“月成楼”、神话传奇的古庙“西霖宫”古刹“圣王公庙”等等，脍炙人口，美不胜收！现在楼下村正实施建设乡村公园、文化广场、宗祠周边房屋修缮整治绿化等项目，相信在上级党委、政府指导及社会各界人士继续支持、村民共同努力下，楼下村将成为名符其实的美丽乡村。</p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 案例 </category>
+          
+          <category> 视频 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 案例 </tag>
+            
+            <tag> 永定区 </tag>
+            
+            <tag> 纪录片 </tag>
+            
+            <tag> 楼下村 </tag>
+            
+            <tag> 奥杳 </tag>
+            
+            <tag> 视频案例 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>《永定南山凤凰城环山彩虹乐跑赛》宣传片</title>
+      <link href="/yongding-nanshan/"/>
+      <url>/yongding-nanshan/</url>
+      
+        <content type="html"><![CDATA[<h1 id="视频播放"><a href="#视频播放" class="headerlink" title="视频播放"></a>视频播放</h1><p class="video"><iframe src="https://v.qq.com/txp/iframe/player.html?vid=e09288bbp2n" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p><h1 id="制作团队"><a href="#制作团队" class="headerlink" title="制作团队"></a>制作团队</h1><ul><li>龙岩市永定区其乐传媒有限公司</li><li>永定网<h2 id="BING"><a href="#BING" class="headerlink" title="BING"></a>BING</h2></li><li>素材拍摄</li><li>视频剪辑</li><li>调色</li><li>配乐<h2 id="CLOV"><a href="#CLOV" class="headerlink" title="CLOV"></a>CLOV</h2></li><li>剪接</li><li>调色</li><li>配乐</li><li>特效视频</li></ul><h1 id="软件"><a href="#软件" class="headerlink" title="软件"></a>软件</h1><blockquote><p>Adobe Premiere<br>Adobe After Effects</p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 案例 </category>
+          
+          <category> 视频 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 案例 </tag>
+            
+            <tag> 永定区 </tag>
+            
+            <tag> 视频案例 </tag>
+            
+            <tag> 南山凤凰城 </tag>
+            
+            <tag> 宣传片 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
