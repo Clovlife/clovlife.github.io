@@ -4,6 +4,41 @@
   
     
     <entry>
+      <title>FCPX技巧：使用FinalCut Pro X自带效果制作简单星轨、光轨</title>
+      <link href="/FCPX-Star-Trails-20201013/"/>
+      <url>/FCPX-Star-Trails-20201013/</url>
+      
+        <content type="html"><![CDATA[<p>在视频中，有一种很神奇的效果。<br><img src="/images/202010/16025601806996.jpg" alt=""><br>相信很多人在照片中都有看到过。</p><blockquote><p>在很早以前，我就想要做到这种视频。不过之前思路是一直停留在实拍直出实现。<br>而这次接触FCPX却给了我另外一种想法。</p></blockquote><p>要在苹果电脑中做到这种视频我们需要以下几个先决条件。</p><ol><li>MAC电脑（我使用的是10.13.6）</li><li>FinalCut Pro X（我使用的是10.4.6）</li><li>一个延时星空视频，或者其他有光运动的视频。视频尽量使用定镜头拍摄，并且尽量少遮挡物，出片效果会更好。</li></ol><p><strong>打开FinalCut Pro，拖入延时视频素材。</strong><br><img src="/images/202010/16025605229430.jpg" alt="FCPX时间线"><br>我还没拍摄，就使用了在油管上下载的知识共享视频。<br>拖入后呈现效果是这样的↓<br><img src="/images/202010/16025605823805.jpg" alt="原始视频"><br><strong>打开效果浏览器，找到效果</strong><br><img src="/images/202010/16025607051793.jpg" alt="效果位置"><br>具体为“效果浏览器→视频→失真→轨迹”<br><strong>拖放效果到视频，调整参数</strong><br><img src="/images/202010/16025607768095.jpg" alt="效果参数"><br>我这里直接将参数拖放到最大。实际需要根据视频本身和效果需求进行调节。<br><img src="/images/202010/16025609008347.jpg" alt="最终呈现效果"></p><blockquote><p>其实这种效果不单单可以做星轨，对于车流光轨的实现，在一些好的视频素材中也可以实现。</p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> FCPX </category>
+          
+          <category> 效果 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> FCPX </tag>
+            
+            <tag> FinalCut Pro X </tag>
+            
+            <tag> 效果 </tag>
+            
+            <tag> 星轨 </tag>
+            
+            <tag> 光轨 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Photoshop制作有质感的黑白照片，PS只需一步</title>
       <link href="/Black-and-white-photo-2020-9-7/"/>
       <url>/Black-and-white-photo-2020-9-7/</url>
@@ -20,8 +55,6 @@
       
         <tags>
             
-            <tag> 质感 </tag>
-            
             <tag> Photoshop </tag>
             
             <tag> PS </tag>
@@ -29,6 +62,8 @@
             <tag> 黑白照片 </tag>
             
             <tag> 黑白 </tag>
+            
+            <tag> 质感 </tag>
             
         </tags>
       
@@ -55,19 +90,19 @@
       
         <tags>
             
-            <tag> Premiere </tag>
+            <tag> 效果 </tag>
             
             <tag> PR </tag>
-            
-            <tag> Adobe Premiere </tag>
-            
-            <tag> 效果 </tag>
             
             <tag> 青橙色调 </tag>
             
             <tag> 青橙 </tag>
             
             <tag> 调色 </tag>
+            
+            <tag> Adobe Premiere </tag>
+            
+            <tag> Premiere </tag>
             
         </tags>
       
@@ -94,11 +129,11 @@
       
         <tags>
             
+            <tag> 效果 </tag>
+            
             <tag> PR </tag>
             
             <tag> Adobe Premiere </tag>
-            
-            <tag> 效果 </tag>
             
             <tag> 黑白动漫 </tag>
             
@@ -133,11 +168,11 @@
       
         <tags>
             
-            <tag> Premiere </tag>
-            
             <tag> PR </tag>
             
             <tag> Adobe Premiere </tag>
+            
+            <tag> Premiere </tag>
             
             <tag> Adobe </tag>
             
@@ -174,11 +209,11 @@
       
         <tags>
             
-            <tag> Premiere </tag>
-            
             <tag> PR </tag>
             
             <tag> Adobe Premiere </tag>
+            
+            <tag> Premiere </tag>
             
             <tag> Adobe </tag>
             
@@ -215,11 +250,11 @@
       
         <tags>
             
-            <tag> Premiere </tag>
-            
             <tag> PR </tag>
             
             <tag> Adobe Premiere </tag>
+            
+            <tag> Premiere </tag>
             
             <tag> Adobe </tag>
             
@@ -324,6 +359,8 @@
             
             <tag> 永定区 </tag>
             
+            <tag> PPT案例 </tag>
+            
             <tag> 追忆先闲 </tag>
             
             <tag> 传颂经典 </tag>
@@ -331,8 +368,6 @@
             <tag> 国学 </tag>
             
             <tag> 经典 </tag>
-            
-            <tag> PPT案例 </tag>
             
         </tags>
       
@@ -369,11 +404,11 @@
             
             <tag> 永定区 </tag>
             
-            <tag> PPT案例 </tag>
-            
             <tag> 美好生活 </tag>
             
             <tag> 劳动创造 </tag>
+            
+            <tag> PPT案例 </tag>
             
         </tags>
       
@@ -410,11 +445,11 @@
             
             <tag> 永定区 </tag>
             
-            <tag> PPT案例 </tag>
-            
             <tag> 美好生活 </tag>
             
             <tag> 劳动创造 </tag>
+            
+            <tag> PPT案例 </tag>
             
         </tags>
       
@@ -476,9 +511,9 @@
       
         <tags>
             
-            <tag> PR </tag>
-            
             <tag> 效果 </tag>
+            
+            <tag> PR </tag>
             
             <tag> 保留 </tag>
             
@@ -552,11 +587,11 @@
       
         <tags>
             
+            <tag> 质感 </tag>
+            
             <tag> 摄像 </tag>
             
             <tag> 窍门 </tag>
-            
-            <tag> 质感 </tag>
             
             <tag> 技巧 </tag>
             
@@ -585,11 +620,11 @@
       
         <tags>
             
-            <tag> Premiere </tag>
-            
             <tag> PR </tag>
             
             <tag> Adobe Premiere </tag>
+            
+            <tag> Premiere </tag>
             
             <tag> Adobe </tag>
             
@@ -624,11 +659,11 @@
       
         <tags>
             
-            <tag> Premiere </tag>
-            
             <tag> PR </tag>
             
             <tag> Adobe Premiere </tag>
+            
+            <tag> Premiere </tag>
             
             <tag> Adobe </tag>
             

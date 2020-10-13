@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.clovlife.com/"/>
-  <updated>2020-09-07T04:00:47.000Z</updated>
+  <updated>2020-10-13T03:49:40.460Z</updated>
   <id>http://www.clovlife.com/</id>
   
   <author>
@@ -15,6 +15,44 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>FCPX技巧：使用FinalCut Pro X自带效果制作简单星轨、光轨</title>
+    <link href="http://www.clovlife.com/FCPX-Star-Trails-20201013/"/>
+    <id>http://www.clovlife.com/FCPX-Star-Trails-20201013/</id>
+    <published>2020-10-13T03:35:00.000Z</published>
+    <updated>2020-10-13T03:49:40.460Z</updated>
+    
+    <content type="html"><![CDATA[<p>在视频中，有一种很神奇的效果。<br><img src="/images/202010/16025601806996.jpg" alt=""><br>相信很多人在照片中都有看到过。</p><blockquote><p>在很早以前，我就想要做到这种视频。不过之前思路是一直停留在实拍直出实现。<br>而这次接触FCPX却给了我另外一种想法。</p></blockquote><p>要在苹果电脑中做到这种视频我们需要以下几个先决条件。</p><ol><li>MAC电脑（我使用的是10.13.6）</li><li>FinalCut Pro X（我使用的是10.4.6）</li><li>一个延时星空视频，或者其他有光运动的视频。视频尽量使用定镜头拍摄，并且尽量少遮挡物，出片效果会更好。</li></ol><p><strong>打开FinalCut Pro，拖入延时视频素材。</strong><br><img src="/images/202010/16025605229430.jpg" alt="FCPX时间线"><br>我还没拍摄，就使用了在油管上下载的知识共享视频。<br>拖入后呈现效果是这样的↓<br><img src="/images/202010/16025605823805.jpg" alt="原始视频"><br><strong>打开效果浏览器，找到效果</strong><br><img src="/images/202010/16025607051793.jpg" alt="效果位置"><br>具体为“效果浏览器→视频→失真→轨迹”<br><strong>拖放效果到视频，调整参数</strong><br><img src="/images/202010/16025607768095.jpg" alt="效果参数"><br>我这里直接将参数拖放到最大。实际需要根据视频本身和效果需求进行调节。<br><img src="/images/202010/16025609008347.jpg" alt="最终呈现效果"></p><blockquote><p>其实这种效果不单单可以做星轨，对于车流光轨的实现，在一些好的视频素材中也可以实现。</p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;在视频中，有一种很神奇的效果。&lt;br&gt;&lt;img src=&quot;/images/202010/16025601806996.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;相信很多人在照片中都有看到过。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;在很早以前，我就想要做到这种视频。不过之前思路是一直
+      
+    
+    </summary>
+    
+    
+      <category term="FCPX" scheme="http://www.clovlife.com/categories/FCPX/"/>
+    
+      <category term="效果" scheme="http://www.clovlife.com/categories/FCPX/%E6%95%88%E6%9E%9C/"/>
+    
+    
+      <category term="FCPX" scheme="http://www.clovlife.com/tags/FCPX/"/>
+    
+      <category term="FinalCut Pro X" scheme="http://www.clovlife.com/tags/FinalCut-Pro-X/"/>
+    
+      <category term="效果" scheme="http://www.clovlife.com/tags/%E6%95%88%E6%9E%9C/"/>
+    
+      <category term="星轨" scheme="http://www.clovlife.com/tags/%E6%98%9F%E8%BD%A8/"/>
+    
+      <category term="光轨" scheme="http://www.clovlife.com/tags/%E5%85%89%E8%BD%A8/"/>
+    
+  </entry>
   
   <entry>
     <title>Photoshop制作有质感的黑白照片，PS只需一步</title>
@@ -43,8 +81,6 @@
       <category term="平面设计" scheme="http://www.clovlife.com/categories/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/"/>
     
     
-      <category term="质感" scheme="http://www.clovlife.com/tags/%E8%B4%A8%E6%84%9F/"/>
-    
       <category term="Photoshop" scheme="http://www.clovlife.com/tags/Photoshop/"/>
     
       <category term="PS" scheme="http://www.clovlife.com/tags/PS/"/>
@@ -52,6 +88,8 @@
       <category term="黑白照片" scheme="http://www.clovlife.com/tags/%E9%BB%91%E7%99%BD%E7%85%A7%E7%89%87/"/>
     
       <category term="黑白" scheme="http://www.clovlife.com/tags/%E9%BB%91%E7%99%BD/"/>
+    
+      <category term="质感" scheme="http://www.clovlife.com/tags/%E8%B4%A8%E6%84%9F/"/>
     
   </entry>
   
@@ -83,19 +121,19 @@
       <category term="效果制作" scheme="http://www.clovlife.com/categories/PR%E6%95%99%E7%A8%8B/%E6%95%88%E6%9E%9C%E5%88%B6%E4%BD%9C/"/>
     
     
-      <category term="Premiere" scheme="http://www.clovlife.com/tags/Premiere/"/>
+      <category term="效果" scheme="http://www.clovlife.com/tags/%E6%95%88%E6%9E%9C/"/>
     
       <category term="PR" scheme="http://www.clovlife.com/tags/PR/"/>
-    
-      <category term="Adobe Premiere" scheme="http://www.clovlife.com/tags/Adobe-Premiere/"/>
-    
-      <category term="效果" scheme="http://www.clovlife.com/tags/%E6%95%88%E6%9E%9C/"/>
     
       <category term="青橙色调" scheme="http://www.clovlife.com/tags/%E9%9D%92%E6%A9%99%E8%89%B2%E8%B0%83/"/>
     
       <category term="青橙" scheme="http://www.clovlife.com/tags/%E9%9D%92%E6%A9%99/"/>
     
       <category term="调色" scheme="http://www.clovlife.com/tags/%E8%B0%83%E8%89%B2/"/>
+    
+      <category term="Adobe Premiere" scheme="http://www.clovlife.com/tags/Adobe-Premiere/"/>
+    
+      <category term="Premiere" scheme="http://www.clovlife.com/tags/Premiere/"/>
     
   </entry>
   
@@ -128,11 +166,11 @@
       <category term="效果制作" scheme="http://www.clovlife.com/categories/PR%E6%95%99%E7%A8%8B/%E6%95%88%E6%9E%9C%E5%88%B6%E4%BD%9C/"/>
     
     
+      <category term="效果" scheme="http://www.clovlife.com/tags/%E6%95%88%E6%9E%9C/"/>
+    
       <category term="PR" scheme="http://www.clovlife.com/tags/PR/"/>
     
       <category term="Adobe Premiere" scheme="http://www.clovlife.com/tags/Adobe-Premiere/"/>
-    
-      <category term="效果" scheme="http://www.clovlife.com/tags/%E6%95%88%E6%9E%9C/"/>
     
       <category term="黑白动漫" scheme="http://www.clovlife.com/tags/%E9%BB%91%E7%99%BD%E5%8A%A8%E6%BC%AB/"/>
     
@@ -170,11 +208,11 @@
       <category term="Mogrt" scheme="http://www.clovlife.com/categories/PR%E6%8F%92%E4%BB%B6/Mogrt/"/>
     
     
-      <category term="Premiere" scheme="http://www.clovlife.com/tags/Premiere/"/>
-    
       <category term="PR" scheme="http://www.clovlife.com/tags/PR/"/>
     
       <category term="Adobe Premiere" scheme="http://www.clovlife.com/tags/Adobe-Premiere/"/>
+    
+      <category term="Premiere" scheme="http://www.clovlife.com/tags/Premiere/"/>
     
       <category term="Adobe" scheme="http://www.clovlife.com/tags/Adobe/"/>
     
@@ -214,11 +252,11 @@
       <category term="Mogrt" scheme="http://www.clovlife.com/categories/PR%E6%8F%92%E4%BB%B6/Mogrt/"/>
     
     
-      <category term="Premiere" scheme="http://www.clovlife.com/tags/Premiere/"/>
-    
       <category term="PR" scheme="http://www.clovlife.com/tags/PR/"/>
     
       <category term="Adobe Premiere" scheme="http://www.clovlife.com/tags/Adobe-Premiere/"/>
+    
+      <category term="Premiere" scheme="http://www.clovlife.com/tags/Premiere/"/>
     
       <category term="Adobe" scheme="http://www.clovlife.com/tags/Adobe/"/>
     
@@ -258,11 +296,11 @@
       <category term="Mogrt" scheme="http://www.clovlife.com/categories/PR%E6%8F%92%E4%BB%B6/Mogrt/"/>
     
     
-      <category term="Premiere" scheme="http://www.clovlife.com/tags/Premiere/"/>
-    
       <category term="PR" scheme="http://www.clovlife.com/tags/PR/"/>
     
       <category term="Adobe Premiere" scheme="http://www.clovlife.com/tags/Adobe-Premiere/"/>
+    
+      <category term="Premiere" scheme="http://www.clovlife.com/tags/Premiere/"/>
     
       <category term="Adobe" scheme="http://www.clovlife.com/tags/Adobe/"/>
     
@@ -384,6 +422,8 @@
     
       <category term="永定区" scheme="http://www.clovlife.com/tags/%E6%B0%B8%E5%AE%9A%E5%8C%BA/"/>
     
+      <category term="PPT案例" scheme="http://www.clovlife.com/tags/PPT%E6%A1%88%E4%BE%8B/"/>
+    
       <category term="追忆先闲" scheme="http://www.clovlife.com/tags/%E8%BF%BD%E5%BF%86%E5%85%88%E9%97%B2/"/>
     
       <category term="传颂经典" scheme="http://www.clovlife.com/tags/%E4%BC%A0%E9%A2%82%E7%BB%8F%E5%85%B8/"/>
@@ -391,8 +431,6 @@
       <category term="国学" scheme="http://www.clovlife.com/tags/%E5%9B%BD%E5%AD%A6/"/>
     
       <category term="经典" scheme="http://www.clovlife.com/tags/%E7%BB%8F%E5%85%B8/"/>
-    
-      <category term="PPT案例" scheme="http://www.clovlife.com/tags/PPT%E6%A1%88%E4%BE%8B/"/>
     
   </entry>
   
@@ -432,11 +470,11 @@
     
       <category term="永定区" scheme="http://www.clovlife.com/tags/%E6%B0%B8%E5%AE%9A%E5%8C%BA/"/>
     
-      <category term="PPT案例" scheme="http://www.clovlife.com/tags/PPT%E6%A1%88%E4%BE%8B/"/>
-    
       <category term="美好生活" scheme="http://www.clovlife.com/tags/%E7%BE%8E%E5%A5%BD%E7%94%9F%E6%B4%BB/"/>
     
       <category term="劳动创造" scheme="http://www.clovlife.com/tags/%E5%8A%B3%E5%8A%A8%E5%88%9B%E9%80%A0/"/>
+    
+      <category term="PPT案例" scheme="http://www.clovlife.com/tags/PPT%E6%A1%88%E4%BE%8B/"/>
     
   </entry>
   
@@ -476,11 +514,11 @@
     
       <category term="永定区" scheme="http://www.clovlife.com/tags/%E6%B0%B8%E5%AE%9A%E5%8C%BA/"/>
     
-      <category term="PPT案例" scheme="http://www.clovlife.com/tags/PPT%E6%A1%88%E4%BE%8B/"/>
-    
       <category term="美好生活" scheme="http://www.clovlife.com/tags/%E7%BE%8E%E5%A5%BD%E7%94%9F%E6%B4%BB/"/>
     
       <category term="劳动创造" scheme="http://www.clovlife.com/tags/%E5%8A%B3%E5%8A%A8%E5%88%9B%E9%80%A0/"/>
+    
+      <category term="PPT案例" scheme="http://www.clovlife.com/tags/PPT%E6%A1%88%E4%BE%8B/"/>
     
   </entry>
   
@@ -549,9 +587,9 @@
       <category term="效果制作" scheme="http://www.clovlife.com/categories/PR%E6%95%99%E7%A8%8B/%E6%95%88%E6%9E%9C%E5%88%B6%E4%BD%9C/"/>
     
     
-      <category term="PR" scheme="http://www.clovlife.com/tags/PR/"/>
-    
       <category term="效果" scheme="http://www.clovlife.com/tags/%E6%95%88%E6%9E%9C/"/>
+    
+      <category term="PR" scheme="http://www.clovlife.com/tags/PR/"/>
     
       <category term="保留" scheme="http://www.clovlife.com/tags/%E4%BF%9D%E7%95%99/"/>
     
@@ -630,11 +668,11 @@
       <category term="小技巧" scheme="http://www.clovlife.com/categories/%E6%91%84%E5%83%8F/%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
     
     
+      <category term="质感" scheme="http://www.clovlife.com/tags/%E8%B4%A8%E6%84%9F/"/>
+    
       <category term="摄像" scheme="http://www.clovlife.com/tags/%E6%91%84%E5%83%8F/"/>
     
       <category term="窍门" scheme="http://www.clovlife.com/tags/%E7%AA%8D%E9%97%A8/"/>
-    
-      <category term="质感" scheme="http://www.clovlife.com/tags/%E8%B4%A8%E6%84%9F/"/>
     
       <category term="技巧" scheme="http://www.clovlife.com/tags/%E6%8A%80%E5%B7%A7/"/>
     
@@ -664,11 +702,11 @@
       <category term="软件问题" scheme="http://www.clovlife.com/categories/PR%E6%95%99%E7%A8%8B/%E8%BD%AF%E4%BB%B6%E9%97%AE%E9%A2%98/"/>
     
     
-      <category term="Premiere" scheme="http://www.clovlife.com/tags/Premiere/"/>
-    
       <category term="PR" scheme="http://www.clovlife.com/tags/PR/"/>
     
       <category term="Adobe Premiere" scheme="http://www.clovlife.com/tags/Adobe-Premiere/"/>
+    
+      <category term="Premiere" scheme="http://www.clovlife.com/tags/Premiere/"/>
     
       <category term="Adobe" scheme="http://www.clovlife.com/tags/Adobe/"/>
     
@@ -708,11 +746,11 @@
       <category term="Mogrt" scheme="http://www.clovlife.com/categories/PR%E6%8F%92%E4%BB%B6/Mogrt/"/>
     
     
-      <category term="Premiere" scheme="http://www.clovlife.com/tags/Premiere/"/>
-    
       <category term="PR" scheme="http://www.clovlife.com/tags/PR/"/>
     
       <category term="Adobe Premiere" scheme="http://www.clovlife.com/tags/Adobe-Premiere/"/>
+    
+      <category term="Premiere" scheme="http://www.clovlife.com/tags/Premiere/"/>
     
       <category term="Adobe" scheme="http://www.clovlife.com/tags/Adobe/"/>
     
